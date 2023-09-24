@@ -1,0 +1,267 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2\lib\idea_rt.jar=57410:C:\Program Files\JetBrains\IntelliJ IDEA 2023.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Estafet\IdeaProjects\RSM\target\classes;C:\Users\Estafet\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\Estafet\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\Estafet\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\Estafet\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\Estafet\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\Estafet\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\Estafet\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\Estafet\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar org.example.threads.DataTransfer
+20:01:13.997 [main] INFO org.example.threads.service.fileinfo.FileInfoService - Get package with ID: 6665485
+20:01:14.246 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=44575809, originalFileName=corporis_et\magni.bmp, fileKey=facere_veritatis\eligendi.flac, downloadURL=www.cinda-von.net)
+20:01:14.245 [ForkJoinPool.commonPool-worker-1] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=16135775, originalFileName=et_consequatur\ea.odt, fileKey=distinctio_dolores\facilis.wav, downloadURL=www.amina-boehm.io)
+20:01:14.245 [ForkJoinPool.commonPool-worker-2] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=45154177, originalFileName=error_eos\et.webm, fileKey=necessitatibus_quia\voluptatum.ods, downloadURL=www.ronny-crona.io)
+20:01:14.248 [ForkJoinPool.commonPool-worker-6] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=28170232, originalFileName=similique_aperiam\velit.webm, fileKey=sint_veniam\quis.flac, downloadURL=www.renaldo-walter.co)
+20:01:14.247 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=42536137, originalFileName=voluptas_architecto\quis.js, fileKey=consectetur_quis\praesentium.docx, downloadURL=www.vera-bogisich.info)
+20:01:14.247 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=10055874, originalFileName=rerum_eligendi\qui.bmp, fileKey=amet_error\doloremque.txt, downloadURL=www.terra-nolan.info)
+20:01:14.247 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=5235336, originalFileName=nemo_sint\occaecati.pages, fileKey=quia_qui\non.flac, downloadURL=www.ela-koelpin.org)
+20:01:14.240 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=23978634, originalFileName=dolor_explicabo\ut.html, fileKey=inventore_magni\expedita.ppt, downloadURL=www.marcene-little.net)
+20:01:14.267 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=49629883, originalFileName=ipsam_quo\corporis.numbers, fileKey=nihil_voluptates\labore.bmp, downloadURL=www.eduardo-bogisich.co)
+20:01:14.267 [ForkJoinPool.commonPool-worker-1] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=32559681, originalFileName=quo_ut\consequatur.ods, fileKey=totam_atque\ad.flac, downloadURL=www.mary-waelchi.name)
+20:01:14.267 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Excluding file for download: voluptas_architecto\quis.js
+20:01:14.267 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=6456525, originalFileName=earum_eum\dolores.xls, fileKey=hic_quis\quia.csv, downloadURL=www.marcell-hyatt.name)
+20:01:14.267 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=25464721, originalFileName=cum_est\omnis.jpeg, fileKey=impedit_in\odio.webm, downloadURL=www.darrin-romaguera.info)
+20:01:14.267 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=15422142, originalFileName=et_voluptas\nemo.js, fileKey=sequi_modi\velit.ods, downloadURL=www.zachary-maggio.io)
+20:01:14.267 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=43040905, originalFileName=saepe_quis\quam.doc, fileKey=sit_maiores\magni.doc, downloadURL=www.maryanna-mcglynn.co)
+20:01:14.267 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Excluding file for download: et_voluptas\nemo.js
+20:01:14.267 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=49752599, originalFileName=possimus_maxime\consequatur.csv, fileKey=sed_voluptatem\totam.xls, downloadURL=www.orval-von.io)
+20:01:14.267 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=25538254, originalFileName=quisquam_eos\rerum.css, fileKey=vel_vitae\eveniet.pdf, downloadURL=www.carline-marquardt.name)
+20:01:14.268 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=6818880, originalFileName=voluptate_eum\et.gif, fileKey=ut_cum\tenetur.png, downloadURL=www.britt-denesik.biz)
+20:01:14.268 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=24479338, originalFileName=iure_ea\commodi.txt, fileKey=dolorem_beatae\minus.xls, downloadURL=www.keneth-damore.io)
+20:01:14.267 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=10810705, originalFileName=est_laboriosam\qui.docx, fileKey=fuga_et\voluptas.odt, downloadURL=www.reagan-weimann.com)
+20:01:14.268 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=48377810, originalFileName=quis_eveniet\aut.xlsx, fileKey=veniam_optio\tempore.docx, downloadURL=www.kip-ondricka.com)
+20:01:14.267 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=37100006, originalFileName=molestiae_necessitatibus\maiores.csv, fileKey=error_et\aut.html, downloadURL=www.al-ledner.info)
+20:01:14.268 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=6436126, originalFileName=animi_magnam\dolorum.jpeg, fileKey=quis_earum\totam.wav, downloadURL=www.zachery-nitzsche.name)
+20:01:14.268 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=37708669, originalFileName=in_recusandae\sit.pptx, fileKey=aspernatur_vitae\expedita.pptx, downloadURL=www.ernesto-crist.name)
+20:01:14.268 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=42705964, originalFileName=rerum_cupiditate\ducimus.html, fileKey=qui_dolores\itaque.json, downloadURL=www.rudolf-daniel.com)
+20:01:14.268 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=17912432, originalFileName=quis_cupiditate\exercitationem.wav, fileKey=quod_sed\ut.xls, downloadURL=www.quentin-mckenzie.org)
+20:01:14.268 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=31666476, originalFileName=autem_autem\numquam.pdf, fileKey=suscipit_ea\et.jpg, downloadURL=www.federico-funk.io)
+20:01:14.268 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=33750407, originalFileName=rerum_ut\perspiciatis.csv, fileKey=rerum_voluptatum\distinctio.xls, downloadURL=www.valentin-mueller.info)
+20:01:14.268 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=10829266, originalFileName=occaecati_deserunt\modi.docx, fileKey=et_sequi\aut.xlsx, downloadURL=www.mose-franecki.co)
+20:01:14.269 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=7813258, originalFileName=voluptatibus_reprehenderit\in.docx, fileKey=qui_aut\earum.jpg, downloadURL=www.kit-klocko.name)
+20:01:14.269 [ForkJoinPool.commonPool-worker-1] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=43742730, originalFileName=labore_ex\architecto.gif, fileKey=dolores_aut\eos.html, downloadURL=www.norine-brown.io)
+20:01:14.269 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=22353463, originalFileName=non_nihil\quas.webm, fileKey=quia_sunt\dicta.key, downloadURL=www.trudi-dicki.co)
+20:01:14.269 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=9330424, originalFileName=maxime_consequatur\totam.bmp, fileKey=maiores_impedit\perspiciatis.js, downloadURL=www.bernie-nolan.info)
+20:01:14.268 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=39436361, originalFileName=similique_enim\et.odp, fileKey=perspiciatis_cum\et.txt, downloadURL=www.norman-jerde.net)
+20:01:14.269 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=30404485, originalFileName=consectetur_ut\optio.odt, fileKey=deleniti_aut\delectus.pdf, downloadURL=www.mohammad-gleichner.com)
+20:01:14.268 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=48280019, originalFileName=saepe_voluptatibus\porro.jpeg, fileKey=culpa_molestiae\consequatur.webm, downloadURL=www.corinne-frami.biz)
+20:01:14.269 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=31042560, originalFileName=ea_labore\dolorem.jpeg, fileKey=totam_tempore\culpa.docx, downloadURL=www.philomena-abshire.com)
+20:01:14.269 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=40815929, originalFileName=ex_officia\ea.jpeg, fileKey=dolores_fugiat\dicta.txt, downloadURL=www.lourdes-robel.org)
+20:01:14.269 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=31549783, originalFileName=veniam_et\incidunt.mp3, fileKey=eveniet_deleniti\sit.key, downloadURL=www.cameron-jast.com)
+20:01:14.269 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=25199003, originalFileName=et_non\nemo.jpg, fileKey=incidunt_et\aperiam.tiff, downloadURL=www.jackie-hintz.io)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=9256127, originalFileName=provident_eum\delectus.odt, fileKey=voluptas_ut\mollitia.flac, downloadURL=www.reinaldo-conn.net)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=29935792, originalFileName=ad_accusantium\optio.flac, fileKey=unde_rem\sint.wav, downloadURL=www.sanford-nicolas.name)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=48588532, originalFileName=numquam_aut\et.xls, fileKey=laborum_et\aliquam.pdf, downloadURL=www.marilou-kiehn.org)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=7186496, originalFileName=et_itaque\minus.ppt, fileKey=non_id\eum.mp4, downloadURL=www.michell-hansen.com)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=40615328, originalFileName=culpa_ratione\dolores.js, fileKey=minus_quis\eos.csv, downloadURL=www.lulu-rodriguez.co)
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Excluding file for download: culpa_ratione\dolores.js
+20:01:14.270 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=42396772, originalFileName=doloremque_quo\enim.jpeg, fileKey=adipisci_est\quibusdam.numbers, downloadURL=www.bebe-gottlieb.co)
+20:01:14.270 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=32135606, originalFileName=soluta_atque\reiciendis.json, fileKey=assumenda_molestiae\aliquid.pptx, downloadURL=www.callie-hagenes.org)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=18835457, originalFileName=et_quo\repudiandae.key, fileKey=aut_ab\beatae.html, downloadURL=www.wilbert-runte.name)
+20:01:14.271 [ForkJoinPool.commonPool-worker-1] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=21624700, originalFileName=iure_magni\est.wav, fileKey=aut_quo\facere.pptx, downloadURL=www.nickolas-lebsack.com)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=26801464, originalFileName=nobis_omnis\aut.mov, fileKey=omnis_nihil\soluta.doc, downloadURL=www.barney-gislason.co)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=5429791, originalFileName=molestiae_totam\quibusdam.tiff, fileKey=minima_ut\qui.json, downloadURL=www.johnathan-bechtelar.co)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=29277589, originalFileName=autem_delectus\qui.html, fileKey=ab_explicabo\iste.png, downloadURL=www.melina-bogisich.org)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=7432571, originalFileName=nisi_voluptate\quo.csv, fileKey=totam_nam\ad.xls, downloadURL=www.rachell-spencer.name)
+20:01:14.271 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=16638555, originalFileName=adipisci_eum\dicta.pptx, fileKey=voluptatum_officia\et.mov, downloadURL=www.toya-miller.info)
+20:01:14.267 [ForkJoinPool.commonPool-worker-2] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=37835214, originalFileName=et_in\quis.tiff, fileKey=deleniti_qui\totam.numbers, downloadURL=www.levi-gorczany.name)
+20:01:14.269 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=45633119, originalFileName=atque_ut\quidem.key, fileKey=ut_repellat\odit.docx, downloadURL=www.willena-marks.name)
+20:01:14.271 [ForkJoinPool.commonPool-worker-1] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=17082794, originalFileName=dolor_at\temporibus.txt, fileKey=ea_et\cupiditate.webm, downloadURL=www.maryjane-thiel.name)
+20:01:14.268 [ForkJoinPool.commonPool-worker-6] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=39588874, originalFileName=dicta_quasi\adipisci.png, fileKey=sunt_vel\alias.gif, downloadURL=www.joseph-watsica.biz)
+20:01:14.272 [ForkJoinPool.commonPool-worker-2] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=40555115, originalFileName=quas_unde\sit.key, fileKey=sint_perferendis\dolorem.pdf, downloadURL=www.sheldon-wiza.name)
+20:01:14.269 [ForkJoinPool.commonPool-worker-3] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=5754089, originalFileName=vero_saepe\veniam.ppt, fileKey=consequatur_et\consectetur.csv, downloadURL=www.joslyn-heaney.biz)
+20:01:14.269 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=21170632, originalFileName=rerum_qui\quis.txt, fileKey=ipsam_at\optio.webm, downloadURL=www.nickole-doyle.name)
+20:01:14.271 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=19959450, originalFileName=suscipit_aut\numquam.wav, fileKey=quis_qui\nemo.xls, downloadURL=www.errol-welch.com)
+20:01:14.272 [ForkJoinPool.commonPool-worker-7] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=19131472, originalFileName=iste_esse\est.doc, fileKey=magnam_voluptatibus\nihil.txt, downloadURL=www.meaghan-kunze.info)
+20:01:14.272 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=20354689, originalFileName=velit_quo\iusto.jpeg, fileKey=error_facere\praesentium.gif, downloadURL=www.kasey-gorczany.com)
+20:01:14.272 [ForkJoinPool.commonPool-worker-2] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=30737098, originalFileName=commodi_enim\eum.bmp, fileKey=fugiat_qui\deleniti.gif, downloadURL=www.ulysses-wisoky.co)
+20:01:14.272 [main] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=45249930, originalFileName=autem_corporis\est.css, fileKey=ab_sit\occaecati.txt, downloadURL=www.lesley-cruickshank.name)
+20:01:14.273 [ForkJoinPool.commonPool-worker-4] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=6898631, originalFileName=architecto_aut\aperiam.css, fileKey=rerum_aut\beatae.css, downloadURL=www.fredericka-stracke.biz)
+20:01:14.273 [ForkJoinPool.commonPool-worker-5] DEBUG org.example.threads.service.DataTransferService - Verifying download info: FileInfo(size=11085970, originalFileName=nostrum_illo\doloremque.csv, fileKey=quod_nam\voluptatem.jpg, downloadURL=www.teresita-halvorson.co)
+20:01:14.273 [main] INFO org.example.threads.service.DataTransferService - Received filtered download infos: [FileInfo(size=29935792, originalFileName=ad_accusantium\optio.flac, fileKey=unde_rem\sint.wav, downloadURL=www.sanford-nicolas.name), FileInfo(size=48588532, originalFileName=numquam_aut\et.xls, fileKey=laborum_et\aliquam.pdf, downloadURL=www.marilou-kiehn.org), FileInfo(size=25199003, originalFileName=et_non\nemo.jpg, fileKey=incidunt_et\aperiam.tiff, downloadURL=www.jackie-hintz.io), FileInfo(size=9256127, originalFileName=provident_eum\delectus.odt, fileKey=voluptas_ut\mollitia.flac, downloadURL=www.reinaldo-conn.net), FileInfo(size=28170232, originalFileName=similique_aperiam\velit.webm, fileKey=sint_veniam\quis.flac, downloadURL=www.renaldo-walter.co), FileInfo(size=39588874, originalFileName=dicta_quasi\adipisci.png, fileKey=sunt_vel\alias.gif, downloadURL=www.joseph-watsica.biz), FileInfo(size=7186496, originalFileName=et_itaque\minus.ppt, fileKey=non_id\eum.mp4, downloadURL=www.michell-hansen.com), FileInfo(size=37708669, originalFileName=in_recusandae\sit.pptx, fileKey=aspernatur_vitae\expedita.pptx, downloadURL=www.ernesto-crist.name), FileInfo(size=31666476, originalFileName=autem_autem\numquam.pdf, fileKey=suscipit_ea\et.jpg, downloadURL=www.federico-funk.io), FileInfo(size=44575809, originalFileName=corporis_et\magni.bmp, fileKey=facere_veritatis\eligendi.flac, downloadURL=www.cinda-von.net), FileInfo(size=10810705, originalFileName=est_laboriosam\qui.docx, fileKey=fuga_et\voluptas.odt, downloadURL=www.reagan-weimann.com), FileInfo(size=31042560, originalFileName=ea_labore\dolorem.jpeg, fileKey=totam_tempore\culpa.docx, downloadURL=www.philomena-abshire.com), FileInfo(size=40815929, originalFileName=ex_officia\ea.jpeg, fileKey=dolores_fugiat\dicta.txt, downloadURL=www.lourdes-robel.org), FileInfo(size=7813258, originalFileName=voluptatibus_reprehenderit\in.docx, fileKey=qui_aut\earum.jpg, downloadURL=www.kit-klocko.name), FileInfo(size=5754089, originalFileName=vero_saepe\veniam.ppt, fileKey=consequatur_et\consectetur.csv, downloadURL=www.joslyn-heaney.biz), FileInfo(size=22353463, originalFileName=non_nihil\quas.webm, fileKey=quia_sunt\dicta.key, downloadURL=www.trudi-dicki.co), FileInfo(size=30404485, originalFileName=consectetur_ut\optio.odt, fileKey=deleniti_aut\delectus.pdf, downloadURL=www.mohammad-gleichner.com), FileInfo(size=42705964, originalFileName=rerum_cupiditate\ducimus.html, fileKey=qui_dolores\itaque.json, downloadURL=www.rudolf-daniel.com), FileInfo(size=33750407, originalFileName=rerum_ut\perspiciatis.csv, fileKey=rerum_voluptatum\distinctio.xls, downloadURL=www.valentin-mueller.info), FileInfo(size=16135775, originalFileName=et_consequatur\ea.odt, fileKey=distinctio_dolores\facilis.wav, downloadURL=www.amina-boehm.io), FileInfo(size=32559681, originalFileName=quo_ut\consequatur.ods, fileKey=totam_atque\ad.flac, downloadURL=www.mary-waelchi.name), FileInfo(size=43742730, originalFileName=labore_ex\architecto.gif, fileKey=dolores_aut\eos.html, downloadURL=www.norine-brown.io), FileInfo(size=21624700, originalFileName=iure_magni\est.wav, fileKey=aut_quo\facere.pptx, downloadURL=www.nickolas-lebsack.com), FileInfo(size=48280019, originalFileName=saepe_voluptatibus\porro.jpeg, fileKey=culpa_molestiae\consequatur.webm, downloadURL=www.corinne-frami.biz), FileInfo(size=31549783, originalFileName=veniam_et\incidunt.mp3, fileKey=eveniet_deleniti\sit.key, downloadURL=www.cameron-jast.com), FileInfo(size=10055874, originalFileName=rerum_eligendi\qui.bmp, fileKey=amet_error\doloremque.txt, downloadURL=www.terra-nolan.info), FileInfo(size=37100006, originalFileName=molestiae_necessitatibus\maiores.csv, fileKey=error_et\aut.html, downloadURL=www.al-ledner.info), FileInfo(size=5235336, originalFileName=nemo_sint\occaecati.pages, fileKey=quia_qui\non.flac, downloadURL=www.ela-koelpin.org), FileInfo(size=49629883, originalFileName=ipsam_quo\corporis.numbers, fileKey=nihil_voluptates\labore.bmp, downloadURL=www.eduardo-bogisich.co), FileInfo(size=6818880, originalFileName=voluptate_eum\et.gif, fileKey=ut_cum\tenetur.png, downloadURL=www.britt-denesik.biz), FileInfo(size=25538254, originalFileName=quisquam_eos\rerum.css, fileKey=vel_vitae\eveniet.pdf, downloadURL=www.carline-marquardt.name), FileInfo(size=10829266, originalFileName=occaecati_deserunt\modi.docx, fileKey=et_sequi\aut.xlsx, downloadURL=www.mose-franecki.co), FileInfo(size=9330424, originalFileName=maxime_consequatur\totam.bmp, fileKey=maiores_impedit\perspiciatis.js, downloadURL=www.bernie-nolan.info), FileInfo(size=6436126, originalFileName=animi_magnam\dolorum.jpeg, fileKey=quis_earum\totam.wav, downloadURL=www.zachery-nitzsche.name), FileInfo(size=17912432, originalFileName=quis_cupiditate\exercitationem.wav, fileKey=quod_sed\ut.xls, downloadURL=www.quentin-mckenzie.org), FileInfo(size=25464721, originalFileName=cum_est\omnis.jpeg, fileKey=impedit_in\odio.webm, downloadURL=www.darrin-romaguera.info), FileInfo(size=49752599, originalFileName=possimus_maxime\consequatur.csv, fileKey=sed_voluptatem\totam.xls, downloadURL=www.orval-von.io), FileInfo(size=24479338, originalFileName=iure_ea\commodi.txt, fileKey=dolorem_beatae\minus.xls, downloadURL=www.keneth-damore.io), FileInfo(size=43040905, originalFileName=saepe_quis\quam.doc, fileKey=sit_maiores\magni.doc, downloadURL=www.maryanna-mcglynn.co), FileInfo(size=48377810, originalFileName=quis_eveniet\aut.xlsx, fileKey=veniam_optio\tempore.docx, downloadURL=www.kip-ondricka.com), FileInfo(size=23978634, originalFileName=dolor_explicabo\ut.html, fileKey=inventore_magni\expedita.ppt, downloadURL=www.marcene-little.net), FileInfo(size=6456525, originalFileName=earum_eum\dolores.xls, fileKey=hic_quis\quia.csv, downloadURL=www.marcell-hyatt.name), FileInfo(size=45633119, originalFileName=atque_ut\quidem.key, fileKey=ut_repellat\odit.docx, downloadURL=www.willena-marks.name), FileInfo(size=19131472, originalFileName=iste_esse\est.doc, fileKey=magnam_voluptatibus\nihil.txt, downloadURL=www.meaghan-kunze.info), FileInfo(size=39436361, originalFileName=similique_enim\et.odp, fileKey=perspiciatis_cum\et.txt, downloadURL=www.norman-jerde.net), FileInfo(size=21170632, originalFileName=rerum_qui\quis.txt, fileKey=ipsam_at\optio.webm, downloadURL=www.nickole-doyle.name), FileInfo(size=45249930, originalFileName=autem_corporis\est.css, fileKey=ab_sit\occaecati.txt, downloadURL=www.lesley-cruickshank.name), FileInfo(size=20354689, originalFileName=velit_quo\iusto.jpeg, fileKey=error_facere\praesentium.gif, downloadURL=www.kasey-gorczany.com), FileInfo(size=11085970, originalFileName=nostrum_illo\doloremque.csv, fileKey=quod_nam\voluptatem.jpg, downloadURL=www.teresita-halvorson.co), FileInfo(size=32135606, originalFileName=soluta_atque\reiciendis.json, fileKey=assumenda_molestiae\aliquid.pptx, downloadURL=www.callie-hagenes.org), FileInfo(size=16638555, originalFileName=adipisci_eum\dicta.pptx, fileKey=voluptatum_officia\et.mov, downloadURL=www.toya-miller.info), FileInfo(size=42396772, originalFileName=doloremque_quo\enim.jpeg, fileKey=adipisci_est\quibusdam.numbers, downloadURL=www.bebe-gottlieb.co), FileInfo(size=18835457, originalFileName=et_quo\repudiandae.key, fileKey=aut_ab\beatae.html, downloadURL=www.wilbert-runte.name), FileInfo(size=26801464, originalFileName=nobis_omnis\aut.mov, fileKey=omnis_nihil\soluta.doc, downloadURL=www.barney-gislason.co), FileInfo(size=5429791, originalFileName=molestiae_totam\quibusdam.tiff, fileKey=minima_ut\qui.json, downloadURL=www.johnathan-bechtelar.co), FileInfo(size=29277589, originalFileName=autem_delectus\qui.html, fileKey=ab_explicabo\iste.png, downloadURL=www.melina-bogisich.org), FileInfo(size=7432571, originalFileName=nisi_voluptate\quo.csv, fileKey=totam_nam\ad.xls, downloadURL=www.rachell-spencer.name), FileInfo(size=45154177, originalFileName=error_eos\et.webm, fileKey=necessitatibus_quia\voluptatum.ods, downloadURL=www.ronny-crona.io), FileInfo(size=37835214, originalFileName=et_in\quis.tiff, fileKey=deleniti_qui\totam.numbers, downloadURL=www.levi-gorczany.name), FileInfo(size=19959450, originalFileName=suscipit_aut\numquam.wav, fileKey=quis_qui\nemo.xls, downloadURL=www.errol-welch.com), FileInfo(size=6898631, originalFileName=architecto_aut\aperiam.css, fileKey=rerum_aut\beatae.css, downloadURL=www.fredericka-stracke.biz), FileInfo(size=17082794, originalFileName=dolor_at\temporibus.txt, fileKey=ea_et\cupiditate.webm, downloadURL=www.maryjane-thiel.name), FileInfo(size=40555115, originalFileName=quas_unde\sit.key, fileKey=sint_perferendis\dolorem.pdf, downloadURL=www.sheldon-wiza.name), FileInfo(size=30737098, originalFileName=commodi_enim\eum.bmp, fileKey=fugiat_qui\deleniti.gif, downloadURL=www.ulysses-wisoky.co)]
+20:01:14.275 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: ad_accusantium\optio.flac
+20:01:14.275 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: numquam_aut\et.xls
+20:01:14.275 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: provident_eum\delectus.odt
+20:01:14.275 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:14.275 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:14.275 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:14.275 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: similique_aperiam\velit.webm
+20:01:14.275 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:14.276 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: et_non\nemo.jpg
+20:01:14.276 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:14.276 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.marilou-kiehn.org
+20:01:14.276 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: et_itaque\minus.ppt
+20:01:14.276 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: dicta_quasi\adipisci.png
+20:01:14.276 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:14.276 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:14.276 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.jackie-hintz.io
+20:01:14.276 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: in_recusandae\sit.pptx
+20:01:14.276 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:14.276 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: autem_autem\numquam.pdf
+20:01:14.276 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:14.276 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: corporis_et\magni.bmp
+20:01:14.276 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:15.278 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.federico-funk.io
+20:01:15.278 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.joseph-watsica.biz
+20:01:15.278 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.cinda-von.net
+20:01:15.278 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: ea_labore\dolorem.jpeg
+20:01:15.278 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: ex_officia\ea.jpeg
+20:01:15.278 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:15.278 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: est_laboriosam\qui.docx
+20:01:15.278 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:15.278 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:15.278 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.reagan-weimann.com
+20:01:15.279 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: voluptatibus_reprehenderit\in.docx
+20:01:15.279 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:16.283 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.philomena-abshire.com
+20:01:16.283 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.michell-hansen.com
+20:01:16.283 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: vero_saepe\veniam.ppt
+20:01:16.283 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: non_nihil\quas.webm
+20:01:16.283 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:16.283 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:17.277 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.sanford-nicolas.name
+20:01:17.277 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.ernesto-crist.name
+20:01:17.277 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.renaldo-walter.co
+20:01:17.277 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: consectetur_ut\optio.odt
+20:01:17.277 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: rerum_cupiditate\ducimus.html
+20:01:17.277 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:17.277 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:17.277 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: rerum_ut\perspiciatis.csv
+20:01:17.277 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.reinaldo-conn.net
+20:01:17.277 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:17.277 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: et_consequatur\ea.odt
+20:01:17.277 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:17.293 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.trudi-dicki.co
+20:01:17.293 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.lourdes-robel.org
+20:01:17.293 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: quo_ut\consequatur.ods
+20:01:17.293 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:17.293 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: labore_ex\architecto.gif
+20:01:17.293 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:17.293 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.norine-brown.io
+20:01:17.293 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: iure_magni\est.wav
+20:01:17.293 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:18.281 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.rudolf-daniel.com
+20:01:18.281 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.amina-boehm.io
+20:01:18.281 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.valentin-mueller.info
+20:01:18.281 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: saepe_voluptatibus\porro.jpeg
+20:01:18.281 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: veniam_et\incidunt.mp3
+20:01:18.281 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:18.281 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:18.281 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: rerum_eligendi\qui.bmp
+20:01:18.281 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:18.296 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.nickolas-lebsack.com
+20:01:18.296 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: molestiae_necessitatibus\maiores.csv
+20:01:18.296 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:19.286 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.mohammad-gleichner.com
+20:01:19.286 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.joslyn-heaney.biz
+20:01:19.286 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: nemo_sint\occaecati.pages
+20:01:19.286 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:19.286 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: ipsam_quo\corporis.numbers
+20:01:19.286 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.kit-klocko.name
+20:01:19.286 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:19.286 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: voluptate_eum\et.gif
+20:01:19.286 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:20.282 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.terra-nolan.info
+20:01:20.282 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: quisquam_eos\rerum.css
+20:01:20.282 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:20.298 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.mary-waelchi.name
+20:01:20.298 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: occaecati_deserunt\modi.docx
+20:01:20.298 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:20.298 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.mose-franecki.co
+20:01:20.298 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: maxime_consequatur\totam.bmp
+20:01:20.298 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:21.292 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.cameron-jast.com
+20:01:21.292 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: animi_magnam\dolorum.jpeg
+20:01:21.292 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:21.307 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.al-ledner.info
+20:01:21.307 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: quis_cupiditate\exercitationem.wav
+20:01:21.307 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:22.286 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.corinne-frami.biz
+20:01:22.286 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: cum_est\omnis.jpeg
+20:01:22.286 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:22.301 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.eduardo-bogisich.co
+20:01:22.301 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.ela-koelpin.org
+20:01:22.301 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: possimus_maxime\consequatur.csv
+20:01:22.301 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:22.301 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: iure_ea\commodi.txt
+20:01:22.301 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:22.317 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.quentin-mckenzie.org
+20:01:22.317 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: saepe_quis\quam.doc
+20:01:22.317 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:22.317 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.maryanna-mcglynn.co
+20:01:22.317 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: quis_eveniet\aut.xlsx
+20:01:22.317 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:23.295 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.zachery-nitzsche.name
+20:01:23.295 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.darrin-romaguera.info
+20:01:23.295 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: dolor_explicabo\ut.html
+20:01:23.295 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: earum_eum\dolores.xls
+20:01:23.295 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:23.295 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:23.296 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.britt-denesik.biz
+20:01:23.296 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: atque_ut\quidem.key
+20:01:23.296 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:23.296 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.willena-marks.name
+20:01:23.296 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: iste_esse\est.doc
+20:01:23.296 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:23.310 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.keneth-damore.io
+20:01:23.310 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: similique_enim\et.odp
+20:01:23.310 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:23.310 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.norman-jerde.net
+20:01:23.310 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: rerum_qui\quis.txt
+20:01:23.310 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:24.292 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.carline-marquardt.name
+20:01:24.292 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: autem_corporis\est.css
+20:01:24.292 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:24.307 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.bernie-nolan.info
+20:01:24.307 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.marcell-hyatt.name
+20:01:24.307 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.meaghan-kunze.info
+20:01:24.307 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: nostrum_illo\doloremque.csv
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: velit_quo\iusto.jpeg
+20:01:24.307 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:24.307 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.kasey-gorczany.com
+20:01:24.307 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: soluta_atque\reiciendis.json
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: adipisci_eum\dicta.pptx
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:24.307 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:24.307 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.toya-miller.info
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: doloremque_quo\enim.jpeg
+20:01:24.307 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:24.323 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.nickole-doyle.name
+20:01:24.323 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.kip-ondricka.com
+20:01:24.323 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: et_quo\repudiandae.key
+20:01:24.323 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:24.323 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: nobis_omnis\aut.mov
+20:01:24.323 [pool-1-thread-3] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:25.306 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.orval-von.io
+20:01:25.306 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.marcene-little.net
+20:01:25.306 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: molestiae_totam\quibusdam.tiff
+20:01:25.306 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: autem_delectus\qui.html
+20:01:25.306 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 1
+20:01:25.306 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:25.306 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.melina-bogisich.org
+20:01:25.306 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: nisi_voluptate\quo.csv
+20:01:25.306 [pool-1-thread-5] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:26.308 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.johnathan-bechtelar.co
+20:01:26.308 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.teresita-halvorson.co
+20:01:26.308 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: error_eos\et.webm
+20:01:26.308 [pool-1-thread-2] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 4
+20:01:26.308 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: et_in\quis.tiff
+20:01:26.308 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:27.301 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.lesley-cruickshank.name
+20:01:27.301 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: suscipit_aut\numquam.wav
+20:01:27.301 [pool-1-thread-1] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:27.316 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.bebe-gottlieb.co
+20:01:27.316 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.callie-hagenes.org
+20:01:27.316 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: architecto_aut\aperiam.css
+20:01:27.316 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: dolor_at\temporibus.txt
+20:01:27.316 [pool-1-thread-7] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 2
+20:01:27.316 [pool-1-thread-6] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:27.332 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.wilbert-runte.name
+20:01:27.332 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: quas_unde\sit.key
+20:01:27.332 [pool-1-thread-8] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 3
+20:01:28.309 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.levi-gorczany.name
+20:01:28.309 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Starting to transfer file: commodi_enim\eum.bmp
+20:01:28.309 [pool-1-thread-5] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.rachell-spencer.name
+20:01:28.309 [pool-1-thread-4] DEBUG org.example.threads.service.DataTransferService - Sleep a bit: 0
+20:01:28.309 [pool-1-thread-4] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.ulysses-wisoky.co
+20:01:28.325 [pool-1-thread-3] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.barney-gislason.co
+20:01:29.319 [pool-1-thread-7] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.fredericka-stracke.biz
+20:01:30.311 [pool-1-thread-2] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.ronny-crona.io
+20:01:30.311 [pool-1-thread-1] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.errol-welch.com
+20:01:30.326 [pool-1-thread-6] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.maryjane-thiel.name
+20:01:30.341 [pool-1-thread-8] ERROR org.example.threads.service.DataTransferService - Transfer failed: no protocol: www.sheldon-wiza.name
+
+Process finished with exit code 0
