@@ -13,6 +13,12 @@ class DataTransferServiceTest {
     @Test
     void transferData() throws InterruptedException {
         PackageReport packageReport = DataTransferService.transferData(6665485);
+
+        assertNotEquals(packageReport.getFailures(), -1);
+        assertNotEquals(packageReport.getSuccesses(), -1);
+        assertTrue(packageReport.getTotalTime() > 0);
+        assertFalse(packageReport.getFileReports().isEmpty());
+
         log.info("Package report: \n {}", packageReport);
     }
 }
