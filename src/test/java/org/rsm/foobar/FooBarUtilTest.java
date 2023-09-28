@@ -187,7 +187,7 @@ class FooBarUtilTest {
     @NullSource
     void verifyFooBarPrintsErrorMessageWhenInputIsNull(String input) {
         FooBarUtil.FooBar(input);
-        assertEquals(invalidInputError, outputStreamCaptor.toString().trim(),
+        assertEquals( invalidInputError, outputStreamCaptor.toString().trim(),
                 "Expected message on console did not match for input null.");
     }
 

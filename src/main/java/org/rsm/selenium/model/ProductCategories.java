@@ -10,8 +10,7 @@ public enum ProductCategories {
     ALL("All Departments", HomePage.class),
     BOOKS("Books", BooksProductsPage.class),
     MUSIC("Music", MusicProductsPage.class),
-    VOUCHERS("Vouchers", MusicProductsPage.class),
-    ;
+    VOUCHERS("Vouchers", MusicProductsPage.class),    ;
 
     @Getter
     Class<? extends AmazonPage> pageClass;

@@ -24,14 +24,14 @@ public class PackageReport {
         fileReports = Collections.synchronizedList(new ArrayList<>());
     }
 
-    public synchronized long getSuccesses() {
+    public long getSuccesses() {
         if (successes == -1) {
             successes = fileReports.parallelStream().filter(FileReport::isSuccess).count();
         }
         return successes;
     }
 
-    public synchronized long getFailures() {
+    public long getFailures() {
         if (failures == -1) {
             failures = fileReports.parallelStream().filter(Predicate.not(FileReport::isSuccess)).count();
         }

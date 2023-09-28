@@ -30,12 +30,9 @@ public class DataTransferService {
         Set<String> duplicateNamesFilter = Collections.synchronizedSet(new HashSet<>());
         AtomicInteger occupiedCapacity = new AtomicInteger();
 
-        FileInfoService.getDownloadInfos(packageId)
-                .stream()
+        FileInfoService.getDownloadInfos(packageId).stream().parallel()
                 .filter(downloadInfo -> fileFilter(downloadInfo, duplicateNamesFilter, packageReport))
-                .forEach(downloadInfo -> executorService.submit(() ->
-                        submitTransfer(downloadInfo, occupiedCapacity, packageReport))
-                );
+                .forEach(downloadInfo -> submitTransfer(downloadInfo, occupiedCapacity, packageReport));
 
         executorService.shutdown();
         executorService.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
